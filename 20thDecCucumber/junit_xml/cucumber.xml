@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="22.5">
+    <testcase classname="Google search functionality test" name="Search Selenium interview questions" time="7.553">
+        <system-out><![CDATA[Given user is already in google search page.................................passed
+When user types "Selenium" in the search input field and press enter button.passed
+Then user should be able to see google search page with title having "Selenium".passed
+And user close the browser..................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Create lead in Vtiger application" name="Create new lead with name as QA" time="14.095">
+        <system-out><![CDATA[Given user already in login page............................................passed
+And user login successfully with valid data.................................passed
+And click on navigation bar.................................................passed
+And go to Marketing and select Leads........................................passed
+When click on Add Leads button and enter firstname as QA ,last as Champak ,number as 123 and click on save button.passed
+And click on All link.......................................................passed
+Then verify lead is created with Champak....................................passed
+And user close the browser..................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
