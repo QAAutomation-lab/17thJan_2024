@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-05-09T02:27:31.169Z",
+        "start_timestamp": "2024-05-10T03:07:01.697Z",
         "line": 4,
         "name": "Search Selenium interview questions",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5018854200,
+              "duration": 13653437900,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 553822400,
+              "duration": 1166137000,
               "status": "passed"
             },
             "line": 6,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 1658242600,
+              "duration": 4278691800,
               "status": "passed"
             },
             "line": 7,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 278355800,
+              "duration": 184433700,
               "status": "passed"
             },
             "line": 8,
@@ -98,7 +98,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4333521300,
+              "duration": 13919110700,
               "status": "passed"
             },
             "line": 4,
@@ -110,7 +110,7 @@
           },
           {
             "result": {
-              "duration": 2661896500,
+              "duration": 9586210800,
               "status": "passed"
             },
             "line": 5,
@@ -122,7 +122,7 @@
           },
           {
             "result": {
-              "duration": 147605000,
+              "duration": 200221400,
               "status": "passed"
             },
             "line": 6,
@@ -134,7 +134,7 @@
           },
           {
             "result": {
-              "duration": 1602704000,
+              "duration": 2904087000,
               "status": "passed"
             },
             "line": 7,
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "start_timestamp": "2024-05-09T02:27:38.778Z",
+        "start_timestamp": "2024-05-10T03:07:21.137Z",
         "line": 17,
         "name": "Create new lead with name as QA",
         "description": "",
@@ -157,7 +157,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3575335100,
+              "duration": 6130418500,
               "status": "passed"
             },
             "line": 10,
@@ -183,7 +183,7 @@
           },
           {
             "result": {
-              "duration": 1209150800,
+              "duration": 2319606700,
               "status": "passed"
             },
             "line": 11,
@@ -195,7 +195,7 @@
           },
           {
             "result": {
-              "duration": 325645500,
+              "duration": 293236900,
               "status": "passed"
             },
             "line": 12,
@@ -213,7 +213,7 @@
           },
           {
             "result": {
-              "duration": 223403300,
+              "duration": 650283800,
               "status": "passed"
             },
             "line": 13,
