@@ -30,3 +30,9 @@ public class Example2 {
 		}
 	}
 }
+/*
+ * JSON file read and write
+ * POJO classes
+ * Serialization
+ * Rest Assured
+ */
