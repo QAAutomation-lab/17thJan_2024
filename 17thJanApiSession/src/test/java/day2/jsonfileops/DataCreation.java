@@ -15,7 +15,6 @@ public class DataCreation {
 		System.out.println(jf.idNumber());
 		System.out.println(jf.phoneNumber());
 		System.out.println(jf.internet().safeEmailAddress());
-		System.out.println(jf.internet().password(5,10));
-		
+		System.out.println(jf.internet().password(5,10));		
 	}
 }

@@ -29,8 +29,8 @@ public class Example1 {
 		String jsonFormatText=JSONValue.toJSONString(obj);
 		System.out.println("Json Text:\n\t"+jsonFormatText);
 		
-		JSONObject ref=new JSONObject(obj);
-		System.out.println("JSON object from MAP: \n\t"+ref);
+//		JSONObject ref=new JSONObject(obj);
+//		System.out.println("JSON object from MAP: \n\t"+ref);
 	}
 	@Test
 	public void testJsonArrayExample3() {

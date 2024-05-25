@@ -27,7 +27,7 @@ public class Example1 {
 		ref.put("Subject3", "Automation");
 		ref.put("Subject4", "Mobile");		
 		System.out.println("MAP Object: \n"+ref);
-		JSONObject obj=new JSONObject(ref);
-		System.out.println("JSON Object: \n"+obj);
+//		JSONObject obj=new JSONObject(ref);
+//		System.out.println("JSON Object: \n"+obj);
 	}
 }
